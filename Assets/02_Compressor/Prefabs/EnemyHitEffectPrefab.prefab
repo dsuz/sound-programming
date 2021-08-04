@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 2423476239657101231}
   - component: {fileID: 2423476239657101230}
   m_Layer: 0
-  m_Name: EnemyHitEffect
+  m_Name: EnemyHitEffectPrefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4758,7 +4758,8 @@ AudioSource:
   m_GameObject: {fileID: 2423476239657101225}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: -3278604468282026217, guid: 29f2bee50fb771749a0a523cb10ff50e,
+    type: 2}
   m_audioClip: {fileID: 8300000, guid: ddc13a8a09ef6b2468037055464e7cd1, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1

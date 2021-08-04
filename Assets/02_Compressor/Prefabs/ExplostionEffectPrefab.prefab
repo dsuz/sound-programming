@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 18626352826826166}
   - component: {fileID: 18626352826826164}
   m_Layer: 0
-  m_Name: ExplostionEffect
+  m_Name: ExplostionEffectPrefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -43,7 +43,8 @@ AudioSource:
   m_GameObject: {fileID: 18626352826826154}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: -3278604468282026217, guid: 29f2bee50fb771749a0a523cb10ff50e,
+    type: 2}
   m_audioClip: {fileID: 8300000, guid: fa140cccb90256849b9862b896a9b662, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
