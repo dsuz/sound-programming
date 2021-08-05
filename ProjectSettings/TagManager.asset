@@ -8,6 +8,8 @@ TagManager:
   - Enemy
   - Bomb
   - Target
+  - Ground
+  - Rock
   layers:
   - Default
   - TransparentFX
